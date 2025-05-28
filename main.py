@@ -50,10 +50,10 @@ def main():
 
         # Define a list of employees to add, each with first and last name
         employees = [
-            {"first": "Alice", "last": "Johnson"},
-            {"first": "Bob", "last": "Smith"},
-            {"first": "Charlie", "last": "Brown"},
-            {"first": "Diana", "last": "Miller"}
+            {"first": "Aleena", "last": "John"},
+            {"first": "Baby", "last": "Sara"},
+            {"first": "Ashok", "last": "Kumar"},
+            {"first": "Devi", "last": "Mohan"}
         ]
 
         # List to keep track of the full names of added employees
